@@ -1,0 +1,19 @@
+{
+    "name": "sports-data-processor",
+    "version": "1.0.0",
+    "description": "A library that processes data from professional athletes' sports computers.",
+    "main": "index.js",
+    "scripts": {
+      "start": "ts-node index.ts",
+      "test": "jest --coverage"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "@types/jest": "^27.0.1",
+      "jest": "^27.0.6",
+      "ts-jest": "^27.0.5",
+      "ts-node": "^10.1.0",
+      "typescript": "^4.3.5"
+    }
+  }
+  

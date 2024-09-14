@@ -1,0 +1,14 @@
+[
+  {
+    "startTimeInSeconds": 1661158927,
+    "totalDistanceInMeters": 15,
+    "timerDurationInSeconds": 600,
+    "heartRateSamples": []
+  },
+  {
+    "startTimeInSeconds": 1661158929,
+    "totalDistanceInMeters": 30,
+    "timerDurationInSeconds": 900,
+    "heartRateSamples": []
+  }
+]

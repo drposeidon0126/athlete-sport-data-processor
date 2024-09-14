@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "strict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,  
+      "skipLibCheck": true,
+      "outDir": "./dist"
+    },
+    "include": ["src/**/*", "tests/**/*", "index.ts"]
+  }
+  

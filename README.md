@@ -2,6 +2,7 @@
 
 ## Overview
 `athlete-sport-data-processor` is a TypeScript/JavaScript library designed to process data from professional athletes' sports computers. It loads and consolidates three different types of datasets (`Summary`, `Laps`, and `Samples`) into a unified JSON output. The data is cleaned, interpolated, and prepared for scientific analysis, including detailed heart rate samples.
+This is Howard's solution for the test task
 
 ## Features
 - **Data Loading**: Supports loading summary, lap, and sample data.
